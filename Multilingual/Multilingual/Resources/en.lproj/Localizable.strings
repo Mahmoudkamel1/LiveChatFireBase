@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Multilingual
+
+  Created by Macbook on 01/08/2021.
+  
+*/
+
+"wlc" = "Welcome";
+"mahmoud" = "Mahmoud";
+"changeLangauge" = "Change Langauge";
+"newText2" = "";
